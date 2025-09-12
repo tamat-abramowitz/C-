@@ -1,0 +1,22 @@
+H:\c#\mainproject\part1\bin\Debug\part1.exe.config
+H:\c#\mainproject\part1\bin\Debug\part1.exe
+H:\c#\mainproject\part1\bin\Debug\part1.pdb
+H:\c#\mainproject\part1\bin\Debug\part3.dll
+H:\c#\mainproject\part1\bin\Debug\part3.pdb
+H:\c#\mainproject\part1\obj\Debug\part1.csproj.AssemblyReference.cache
+H:\c#\mainproject\part1\obj\Debug\part1.csproj.CoreCompileInputs.cache
+H:\c#\mainproject\part1\obj\Debug\part1.csproj.Up2Date
+H:\c#\mainproject\part1\obj\Debug\part1.exe
+H:\c#\mainproject\part1\obj\Debug\part1.pdb
+H:\c#\mainproject\part1\obj\Debug\part1.exe.config
+H:\C#\lesson 1\tali weiss\part1\bin\Debug\part1.exe.config
+H:\C#\lesson 1\tali weiss\part1\bin\Debug\part1.exe
+H:\C#\lesson 1\tali weiss\part1\bin\Debug\part1.pdb
+H:\C#\lesson 1\tali weiss\part1\bin\Debug\part3.dll
+H:\C#\lesson 1\tali weiss\part1\bin\Debug\part3.pdb
+H:\C#\lesson 1\tali weiss\part1\obj\Debug\part1.csproj.AssemblyReference.cache
+H:\C#\lesson 1\tali weiss\part1\obj\Debug\part1.exe.config
+H:\C#\lesson 1\tali weiss\part1\obj\Debug\part1.csproj.CoreCompileInputs.cache
+H:\C#\lesson 1\tali weiss\part1\obj\Debug\part1.csproj.Up2Date
+H:\C#\lesson 1\tali weiss\part1\obj\Debug\part1.exe
+H:\C#\lesson 1\tali weiss\part1\obj\Debug\part1.pdb
