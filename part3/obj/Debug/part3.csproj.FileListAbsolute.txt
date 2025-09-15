@@ -1,0 +1,12 @@
+H:\c#\mainproject\part3\bin\Debug\part3.dll
+H:\c#\mainproject\part3\bin\Debug\part3.pdb
+H:\c#\mainproject\part3\obj\Debug\part3.csproj.AssemblyReference.cache
+H:\c#\mainproject\part3\obj\Debug\part3.csproj.CoreCompileInputs.cache
+H:\c#\mainproject\part3\obj\Debug\part3.dll
+H:\c#\mainproject\part3\obj\Debug\part3.pdb
+H:\C#\lesson 1\tali weiss\part3\obj\Debug\part3.csproj.AssemblyReference.cache
+H:\C#\lesson 1\tali weiss\part3\obj\Debug\part3.csproj.CoreCompileInputs.cache
+H:\C#\lesson 1\tali weiss\part3\obj\Debug\part3.dll
+H:\C#\lesson 1\tali weiss\part3\obj\Debug\part3.pdb
+H:\C#\lesson 1\tali weiss\part3\bin\Debug\part3.dll
+H:\C#\lesson 1\tali weiss\part3\bin\Debug\part3.pdb
